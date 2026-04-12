@@ -1,11 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║         SENIOR SOFTWARE ENGINEER & ENGINEERING LEADER        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<h3>╔══════════════════════════════════════════════════════════════╗</h3>
+<h3>║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SENIOR SOFTWARE ENGINEER &amp; ENGINEERING LEADER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;║</h3>
+<h3>╚══════════════════════════════════════════════════════════════╝</h3>
 
 # James Krot
 
