@@ -1,10 +1,6 @@
 <!-- Header -->
 <div align="center">
 
-<h3>╔══════════════════════════════════════════════════════════════╗</h3>
-<h3>║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SENIOR SOFTWARE ENGINEER &amp; ENGINEERING LEADER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;║</h3>
-<h3>╚══════════════════════════════════════════════════════════════╝</h3>
-
 # James Krot
 
 **Embedded Android · Full-Stack · AWS & Azure · AI-Assisted Development**
