@@ -22,7 +22,7 @@ location: Sun Prairie, WI
 experience: 15+ years
 teams_led: up to 16 engineers (onshore & offshore)
 apps_owned: 26+
-currently: Lead Software Engineer @ Johnson Health Tech
+currently: Considering Opportunities
 open_to: IC and Leadership roles
 ```
 
