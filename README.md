@@ -69,7 +69,7 @@ LLMs · Generative AI · Claude · Cursor · Rovo · Prompt Engineering
 
 | Company | Role | Period |
 |---|---|---|
-| **Johnson Health Tech** | Lead Software Engineer / Engineering Team Lead | 2024 – Present |
+| **Johnson Health Tech** | Lead Software Engineer / Engineering Team Lead | 2024 – 2026 |
 | BravoLT | Senior Software Engineer (Contract) | 2024 |
 | Genus PLC | Senior Software Engineer | 2023 |
 | Northwestern Mutual | Senior Software Engineer | 2020 – 2023 |
