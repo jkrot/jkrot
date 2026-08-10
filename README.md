@@ -17,7 +17,7 @@
 
 ```yaml
 name: James Krot
-role: Senior Software Engineer & Engineering Leader
+role: Engineering Leader & Senior Software Engineer 
 location: Sun Prairie, WI
 experience: 15+ years
 teams_led: up to 16 engineers (onshore & offshore)
@@ -69,7 +69,8 @@ LLMs · Generative AI · Claude · Cursor · Rovo · Prompt Engineering
 
 | Company | Role | Period |
 |---|---|---|
-| **Johnson Health Tech** | Lead Software Engineer / Engineering Team Lead | 2024 – 2026 |
+| **SwineTech** | Senior Software Engineer Manager | 2026 – Current |
+| Johnson Health Tech | Lead Software Engineer / Engineering Team Lead | 2024 – 2026 |
 | BravoLT | Senior Software Engineer (Contract) | 2024 |
 | Genus PLC | Senior Software Engineer | 2023 |
 | Northwestern Mutual | Senior Software Engineer | 2020 – 2023 |
