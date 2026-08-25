@@ -22,7 +22,7 @@ location: Sun Prairie, WI
 experience: 15+ years
 teams_led: up to 16 engineers (onshore & offshore)
 apps_owned: 26+
-currently: Considering Opportunities
+currently: Senior Engineer Manager - SwineTech
 open_to: IC and Leadership roles
 ```
 
